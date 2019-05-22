@@ -1,0 +1,5 @@
+Organic 2.4 1.05 2.5 0.38
+Semidetached 3.0 1.12 2.5 0.35
+Embedded 3.6 1.20 2.5 0.32
+kloc 200
+cat Organic
